@@ -1,5 +1,5 @@
 *           {
-                background-color:rgb(28, 189, 114);
+                background-color:rgb(37, 214, 205);
 
             }
 
@@ -18,9 +18,27 @@
 
             }
 
-.li      {
+.li a:link  {
                 text-decoration: none;
                 text-align: center;
                 font-size: 50px;
-                color: #000;
+                color: black;
             }
+
+.li         {
+                text-align: center;
+                color:black;
+            }
+
+.li a:visited   {
+                    color: black;
+
+
+
+                }
+.subheader      {
+                    font-size: 50px;
+                    text-decoration: underline;                 
+
+                }
+      
